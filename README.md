@@ -105,6 +105,12 @@ Além de ser um exercício prático de criatividade com IA, o projeto também se
 
 ---
 
+## 🎥 Vídeo do Projeto
+
+[![F1 AI Driver Experience](./assets/capa-video.png)]
+
+---
+
 ## 💭 Reflexão
 
 Este desafio mostrou que criar algo “natural” com IA vai muito além de simplesmente pedir um conteúdo pronto.
