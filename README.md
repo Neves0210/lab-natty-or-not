@@ -107,7 +107,7 @@ Além de ser um exercício prático de criatividade com IA, o projeto também se
 
 ## 🎥 Vídeo do Projeto
 
-[![F1 AI Driver Experience](./assets/capa-video.png)]
+[![F1 AI Driver Experience](./assets/Inside_the_Formula_1_Machine_A_Driver_s_.mp4)]
 
 ---
 
